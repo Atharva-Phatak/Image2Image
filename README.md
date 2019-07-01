@@ -1,5 +1,5 @@
 # Season-Tranfer
----
+
 ## Image to Image Translation
 
 Image to Image to translation is a process whose goal is to learn mappings between input image and output images i.e it is a task which helps to convert an image from domain to another domain. A great amount of research has been done on this subject , most of it has used a supervised approach where we have corresponding pairs of images from the two domains whose mapping we want to learn. The problem with this approach is that for many a tasks there won't be such paired image data. The below image shows image to image translation tasks.
