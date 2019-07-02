@@ -16,7 +16,7 @@ The researcher's at the Berkeley Artificial Intelligence Research (BAIR) publish
 
 ### Two Generator's
 
-Cycle Gan is a generative adversarial network with two generators and two discriminators. Let's call one generator G which convert images from domain X to domain Y(**G : X -> Y**)  and other generator F which converts images from domain Y to domain X (**F : Y -> X**). Each generator has a corresponding discriminator which trie to tell apart the sythesized image and real image.
+Cycle Gan is a generative adversarial network with two generators and two discriminators. Let's call one generator G which convert images from domain X to domain Y(**G : X -> Y**)  and other generator F which converts images from domain Y to domain X (**F : Y -> X**). Each generator has a corresponding discriminator which tries to tell apart the synthesized image and real image.
 
 ### The Loss Function
 
