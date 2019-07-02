@@ -10,7 +10,7 @@ Image to Image to translation is a process whose goal is to learn mappings betwe
 
 ## Cycle Gan's to the Rescue!
 
-The researcher's at the Berkeley Artificial Intelligence Research (BAIR) published a paper [Unsupervised Image-to-Image translation with cycle consistend adversarial networks](https://arxiv.org/pdf/1703.10593.pdf) in 2017 in which an apprach was presented which did not required paired image data for image to image translations tasks. Yes of course still the set of images from both the domains was required they do not need to directly correspond to one another.
+The researcher's at the Berkeley Artificial Intelligence Research (BAIR) published a paper [Unsupervised Image-to-Image translation with cycle consistend adversarial networks](https://arxiv.org/pdf/1703.10593.pdf) in 2017 in which an approach was presented which did not required paired image data for image to image translations tasks. Yes of course still the set of images from both the domains was required they do not need to directly correspond to one another.
 
 ## How do they work ? 
 
